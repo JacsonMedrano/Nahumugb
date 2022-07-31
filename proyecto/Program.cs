@@ -20,10 +20,13 @@ namespace proyecto
             Console.Write("Ingrese un numero entero");
             enteros2 = int.Parse(Console.ReadLine());
 
+            Console.Write("Ingrese un numero entero");
+            enteros2 = int.Parse(Console.ReadLine());
+
             Total_suma = enteros + enteros2;
 
             Console.Write("El total de la suma es: " + Total_suma);
             Console.Read();
         }
 
-    }    }
+}   }
