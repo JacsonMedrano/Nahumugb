@@ -1,0 +1,7 @@
+C:\Users\Jacson\Desktop\C#\proyecto\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\Jacson\Desktop\C#\proyecto\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Jacson\Desktop\C#\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\Jacson\Desktop\C#\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\Jacson\Desktop\C#\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Jacson\Desktop\C#\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\Jacson\Desktop\C#\proyecto\proyecto\obj\Debug\proyecto.pdb

@@ -25,4 +25,5 @@ namespace proyecto
             Console.Write("El total de la suma es: " + Total_suma);
             Console.Read();
         }
-    }
+
+    }    }
