@@ -1,0 +1,7 @@
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 5\ejercicio5\bin\Debug\ejercicio5.exe.config
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 5\ejercicio5\bin\Debug\ejercicio5.exe
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 5\ejercicio5\bin\Debug\ejercicio5.pdb
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 5\ejercicio5\obj\Debug\ejercicio5.csproj.AssemblyReference.cache
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 5\ejercicio5\obj\Debug\ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 5\ejercicio5\obj\Debug\ejercicio5.exe
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 5\ejercicio5\obj\Debug\ejercicio5.pdb
