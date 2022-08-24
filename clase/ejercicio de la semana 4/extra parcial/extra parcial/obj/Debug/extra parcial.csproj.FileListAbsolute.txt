@@ -1,0 +1,7 @@
+C:\Users\Jacson\Desktop\C#\proyecto\clase\ejercicio de la semana 4\extra parcial\extra parcial\bin\Debug\extra parcial.exe.config
+C:\Users\Jacson\Desktop\C#\proyecto\clase\ejercicio de la semana 4\extra parcial\extra parcial\bin\Debug\extra parcial.exe
+C:\Users\Jacson\Desktop\C#\proyecto\clase\ejercicio de la semana 4\extra parcial\extra parcial\bin\Debug\extra parcial.pdb
+C:\Users\Jacson\Desktop\C#\proyecto\clase\ejercicio de la semana 4\extra parcial\extra parcial\obj\Debug\extra parcial.csproj.AssemblyReference.cache
+C:\Users\Jacson\Desktop\C#\proyecto\clase\ejercicio de la semana 4\extra parcial\extra parcial\obj\Debug\extra parcial.csproj.CoreCompileInputs.cache
+C:\Users\Jacson\Desktop\C#\proyecto\clase\ejercicio de la semana 4\extra parcial\extra parcial\obj\Debug\extra parcial.exe
+C:\Users\Jacson\Desktop\C#\proyecto\clase\ejercicio de la semana 4\extra parcial\extra parcial\obj\Debug\extra parcial.pdb
