@@ -1,0 +1,7 @@
+C:\Users\Jacson\Desktop\C#\proyecto\semana 5\semana 5\bin\Debug\semana 5.exe.config
+C:\Users\Jacson\Desktop\C#\proyecto\semana 5\semana 5\bin\Debug\semana 5.exe
+C:\Users\Jacson\Desktop\C#\proyecto\semana 5\semana 5\bin\Debug\semana 5.pdb
+C:\Users\Jacson\Desktop\C#\proyecto\semana 5\semana 5\obj\Debug\semana 5.csproj.AssemblyReference.cache
+C:\Users\Jacson\Desktop\C#\proyecto\semana 5\semana 5\obj\Debug\semana 5.csproj.CoreCompileInputs.cache
+C:\Users\Jacson\Desktop\C#\proyecto\semana 5\semana 5\obj\Debug\semana 5.exe
+C:\Users\Jacson\Desktop\C#\proyecto\semana 5\semana 5\obj\Debug\semana 5.pdb
