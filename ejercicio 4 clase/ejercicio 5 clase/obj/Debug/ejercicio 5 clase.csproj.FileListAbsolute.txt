@@ -1,0 +1,10 @@
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 5 clase\ejercicio 5 clase\bin\Debug\ejercicio 5 clase.exe.config
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 5 clase\ejercicio 5 clase\bin\Debug\ejercicio 5 clase.exe
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 5 clase\ejercicio 5 clase\bin\Debug\ejercicio 5 clase.pdb
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 5 clase\ejercicio 5 clase\obj\Debug\ejercicio 5 clase.csproj.AssemblyReference.cache
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 5 clase\ejercicio 5 clase\obj\Debug\ejercicio_5_clase.Form1.resources
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 5 clase\ejercicio 5 clase\obj\Debug\ejercicio_5_clase.Properties.Resources.resources
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 5 clase\ejercicio 5 clase\obj\Debug\ejercicio 5 clase.csproj.GenerateResource.cache
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 5 clase\ejercicio 5 clase\obj\Debug\ejercicio 5 clase.csproj.CoreCompileInputs.cache
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 5 clase\ejercicio 5 clase\obj\Debug\ejercicio 5 clase.exe
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 5 clase\ejercicio 5 clase\obj\Debug\ejercicio 5 clase.pdb
