@@ -1,0 +1,10 @@
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 1----\computo 2\bin\Debug\computo 2.exe.config
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 1----\computo 2\bin\Debug\computo 2.exe
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 1----\computo 2\bin\Debug\computo 2.pdb
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 1----\computo 2\obj\Debug\computo 2.csproj.AssemblyReference.cache
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 1----\computo 2\obj\Debug\computo_2.Form1.resources
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 1----\computo 2\obj\Debug\computo_2.Properties.Resources.resources
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 1----\computo 2\obj\Debug\computo 2.csproj.GenerateResource.cache
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 1----\computo 2\obj\Debug\computo 2.csproj.CoreCompileInputs.cache
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 1----\computo 2\obj\Debug\computo 2.exe
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 1----\computo 2\obj\Debug\computo 2.pdb

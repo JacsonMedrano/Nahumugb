@@ -1,0 +1,10 @@
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 2 clase\ejercicio 2 clase\bin\Debug\ejercicio 2 clase.exe.config
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 2 clase\ejercicio 2 clase\bin\Debug\ejercicio 2 clase.exe
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 2 clase\ejercicio 2 clase\bin\Debug\ejercicio 2 clase.pdb
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 2 clase\ejercicio 2 clase\obj\Debug\ejercicio 2 clase.csproj.AssemblyReference.cache
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 2 clase\ejercicio 2 clase\obj\Debug\ejercicio_2_clase.Form1.resources
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 2 clase\ejercicio 2 clase\obj\Debug\ejercicio_2_clase.Properties.Resources.resources
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 2 clase\ejercicio 2 clase\obj\Debug\ejercicio 2 clase.csproj.GenerateResource.cache
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 2 clase\ejercicio 2 clase\obj\Debug\ejercicio 2 clase.csproj.CoreCompileInputs.cache
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 2 clase\ejercicio 2 clase\obj\Debug\ejercicio 2 clase.exe
+C:\Users\Jacson\Desktop\C#\proyecto\ejercicio 2 clase\ejercicio 2 clase\obj\Debug\ejercicio 2 clase.pdb
