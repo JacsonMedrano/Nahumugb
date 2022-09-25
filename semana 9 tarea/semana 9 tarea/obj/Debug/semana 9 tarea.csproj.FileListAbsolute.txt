@@ -1,0 +1,10 @@
+C:\Users\Jacson\Desktop\Programacion ciclo 2\tareas\semana 9 tarea\semana 9 tarea\obj\Debug\semana 9 tarea.csproj.AssemblyReference.cache
+C:\Users\Jacson\Desktop\Programacion ciclo 2\tareas\semana 9 tarea\semana 9 tarea\obj\Debug\Empleados.Form1.resources
+C:\Users\Jacson\Desktop\Programacion ciclo 2\tareas\semana 9 tarea\semana 9 tarea\obj\Debug\semana_9_tarea.Properties.Resources.resources
+C:\Users\Jacson\Desktop\Programacion ciclo 2\tareas\semana 9 tarea\semana 9 tarea\obj\Debug\semana 9 tarea.csproj.GenerateResource.cache
+C:\Users\Jacson\Desktop\Programacion ciclo 2\tareas\semana 9 tarea\semana 9 tarea\obj\Debug\semana 9 tarea.csproj.CoreCompileInputs.cache
+C:\Users\Jacson\Desktop\Programacion ciclo 2\tareas\semana 9 tarea\semana 9 tarea\bin\Debug\semana 9 tarea.exe.config
+C:\Users\Jacson\Desktop\Programacion ciclo 2\tareas\semana 9 tarea\semana 9 tarea\bin\Debug\semana 9 tarea.exe
+C:\Users\Jacson\Desktop\Programacion ciclo 2\tareas\semana 9 tarea\semana 9 tarea\bin\Debug\semana 9 tarea.pdb
+C:\Users\Jacson\Desktop\Programacion ciclo 2\tareas\semana 9 tarea\semana 9 tarea\obj\Debug\semana 9 tarea.exe
+C:\Users\Jacson\Desktop\Programacion ciclo 2\tareas\semana 9 tarea\semana 9 tarea\obj\Debug\semana 9 tarea.pdb
